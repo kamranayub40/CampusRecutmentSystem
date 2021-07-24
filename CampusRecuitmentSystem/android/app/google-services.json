@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398694287510",
+    "project_id": "campurecuitementsystem",
+    "storage_bucket": "campurecuitementsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398694287510:android:58d1ead772d87aa6fe1ab7",
+        "android_client_info": {
+          "package_name": "com.campusrecuitmentsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398694287510-o6euhkn9cfsmp0kskeqle5k8bf2e402r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9UDlvM2WfipKVbiodu0VpS5XjhU7i16k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398694287510-o6euhkn9cfsmp0kskeqle5k8bf2e402r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
